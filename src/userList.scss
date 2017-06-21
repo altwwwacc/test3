@@ -1,0 +1,38 @@
+#root{
+  padding: 10px 15px;
+}
+.comments-count{
+  text-transform: uppercase;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+.block-day{
+  margin-bottom: 20px;
+  .day-name{
+    font-size: 14px;
+  }
+  .block-table-wrap{
+    padding-left: 20px;
+    margin-top: 2px;
+  }
+  table{
+    width: 500px;
+    border: 1px solid grey;
+    border-bottom: none;
+    td{
+      padding: 10px;
+      border-bottom: 1px solid grey;
+    }
+    .day-date{
+
+    }
+    .author{
+
+    }
+    .comment{
+
+      width: 178px;
+      border-left: 1px solid grey;
+    }
+  }
+}
